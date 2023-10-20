@@ -1,3 +1,5 @@
 import os
 
-print(os.listdir()[0])
+print(os.listdir())
+
+print("Olá pessoal")
